@@ -1,6 +1,8 @@
 # Stock Predictor APP
 
 ![Website Screenshot](image.png)
+
+# Add code and Inputs
 ![Website Screenshot](imagecopy.png)
 ![Website Screenshot](imagecopy2.png)
 ![Website Screenshot](imagecopy3.png)
