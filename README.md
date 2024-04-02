@@ -1,8 +1,9 @@
 # Stock Predictor APP
 
-![Website Screenshot](image.jpeg)
-![Website Screenshot](image copy 2.png)
-![Website Screenshot](image copy 3.png)
+![Website Screenshot](image.png)
+![Website Screenshot](imagecopy.png)
+![Website Screenshot](imagecopy2.png)
+![Website Screenshot](imagecopy3.png)
 # main notebook
 [Link](https://www.kaggle.com/code/ekamsingh123go/stock-app/edit)
 ## Overview
