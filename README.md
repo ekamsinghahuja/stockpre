@@ -1,5 +1,5 @@
 # Stock Predictor
-
+{https://www.kaggle.com/code/ekamsingh123go/stock-app/edit}# NOTEBOOK
 ## Overview
 Stock Predictor is a machine learning model designed to forecast stock prices using Support Vector Machines (SVM). This project aims to provide a tool for investors and traders to make informed decisions based on predicted stock prices.
 
